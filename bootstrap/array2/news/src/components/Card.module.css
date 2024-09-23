@@ -1,0 +1,23 @@
+
+.sej-list{
+  padding: 10px;
+  margin: 10px;
+ 
+}
+
+.group-item{
+  margin: 6px;
+  padding: 7px;
+  border: 2px solid #000;
+   border-radius: 10px; 
+  border: 2px solid #000;
+  background-image: linear-gradient(to left,yellow,red);
+  font-size: larger;
+  font-weight:bold;
+  box-shadow: 0px 0px 5px 1px #000;
+ 
+}
+
+li{
+  list-style: none;
+}
